@@ -1,12 +1,12 @@
 #include<stdio.h> 
 
 /**
- * main - prints a given prase
- * Return: 0 if properly,exit nonzer
+ * main- print function
+ * Return: zero if successful
  */
 
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle"); 
-	return (0);
+	       	puts("\"Programming is like building a multilingual puzzle\n"); 
+		return (0);
 }
