@@ -1,11 +1,11 @@
-#include<stdio.h> 
+#include <stdio.h> 
 /**
-*Use the function puts
-*You are not allowed to use printf
-*Your program should end with the value zero
-*/
+ *main - prints a give phrase
+ *Return:0 if eistedt proper
+ */
+
 int main(void)
 {
 	       	puts("\"Programming is like building a multilingual puzzle"); 
-		return (0);
+		return(0);
 }
