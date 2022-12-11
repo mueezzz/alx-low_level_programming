@@ -1,11 +1,12 @@
-#include <stdio.h> 
+#include<stdio.h> 
+
 /**
- *main - prints a give phrase
- *Return:0 if eistedt proper
+ * main - prints a given prase
+ * Return: 0 if properly,exit nonzer
  */
 
 int main(void)
 {
-	       	puts("\"Programming is like building a multilingual puzzle"); 
-		return(0);
+	puts("\"Programming is like building a multilingual puzzle"); 
+	return(0);
 }
