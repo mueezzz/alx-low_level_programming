@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- *main-print te size  
+ *main-print te size
  *Return: 0 if exited properly
  */
 
