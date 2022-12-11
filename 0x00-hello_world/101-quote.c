@@ -3,7 +3,8 @@
 
 /**
  * main- prints exaly
- * Retun: zero if sucess
+ * - Dora Korpar, 2015-10-19,
+ * Returin: zero if sucess
  */
 
 int main(void)
