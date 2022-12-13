@@ -5,11 +5,11 @@
  * Despt
  *Return: reasonale value
  */
-int main(0)
+int main(void)
 {
-	char d;
+	char d = 'a';
 
-	while (d <= z)
+	while (d <= 'z')
 	{
 		if (d != 'q' && d != 'e')
 		{
