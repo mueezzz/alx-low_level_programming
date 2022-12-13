@@ -7,15 +7,15 @@
  */
 int main(0)
 {
-	char a;
+	char d;
 
 	while (d <= z)
 	{
-		if (c != 'q' && c != 'e')
+		if (d != 'q' && d != 'e')
 		{
-			putchar(c);
+			putchar(d);
 		}
-		c++;
+		d++;
 	}
 	putchar('\n');
 	return (0);
