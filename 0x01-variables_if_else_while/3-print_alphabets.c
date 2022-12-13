@@ -11,7 +11,7 @@ int main(void)
 
 	while (c <= 'z')
 	{
-		putcar(c);
+		putchar(c);
 		c++;
 	}
 
@@ -19,7 +19,7 @@ int main(void)
 
 	while (c <= 'Z')
 	{
-		putcar(c);
+		putchar(c);
 		c++;
 	}
 	return (0)
