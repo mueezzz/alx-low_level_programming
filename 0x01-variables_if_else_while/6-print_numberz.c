@@ -1,18 +1,15 @@
-#include <stdlib.h>
 #include <stdio.h>
-/**
- * main - main function
- * Description: about meeeeeeeeeeeeeeeeeeeeeeeeeeeee
- * Return: 0 dab
- */
+#include <stdlib.h>
+#include <time.h>/*** main - find it* Description: aout my prog* Return: 0 ow*/
+
 int main(void)
 {
-	char s = '0';
+	int num = 0;
 
-	while (s <= '9')
+	while (num < 10)
 	{
-		putchar(s);
-		s++;
+		putchar(48 + num);
+		num++;
 	}
 
 	putchar('\n');
