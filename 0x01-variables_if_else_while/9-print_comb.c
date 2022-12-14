@@ -8,11 +8,14 @@
  */
 int main(void)
 {
-	int a;
+	char n = '0';
 
-	for (a = 0; a < 10; a++)
+	while(n <= '9')
 	{
-		putchar("%i, ", a);
+		putchar(n);
+		putchar(',');
+		putchar('\t');
 	}
+	putchar('\n');
 	return (0);
 }
