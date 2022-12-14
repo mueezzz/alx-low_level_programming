@@ -16,7 +16,7 @@ int main(void)
 		if (n != 9)
 		{
 		putchar(',');
-		putchar('\t');
+		putchar(' ');
 		}
 		n++;
 	}
