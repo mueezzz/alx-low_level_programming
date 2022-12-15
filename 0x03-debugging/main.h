@@ -32,10 +32,10 @@ int _largest_number(int a, int b, int c);
 * Return: day of year
 */
 
-int _convert_day(int month, int day)
+int _convert_day(int month, int day);
 
 
-int _main(void)
+int _main(void);
 
 
 #endif
