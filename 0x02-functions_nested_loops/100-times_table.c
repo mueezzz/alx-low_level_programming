@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * timeTable - print multiplication table up to n
+ * Description -na myy code
+ *@timeTable - print multiplication table up to n
  * @n: integer argument
  */
 
