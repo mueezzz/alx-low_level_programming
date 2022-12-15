@@ -6,7 +6,7 @@
  * @c: character to put to standard output
  */
 
-int _putchar(char c);
+void print_remaining_days(int month, int day, int year);
 
 /**
  * _positive_or_negative - checks for uppercase character
@@ -14,7 +14,7 @@ int _putchar(char c);
  * Return: 1 if true, 0 if false
  */
 
-int _positive_or_negative(int i);
+void positive_or_negative(int i);
 
 /**
  * _largest_number - checks for the largest number
@@ -22,7 +22,7 @@ int _positive_or_negative(int i);
  * Return: 1 if true, 0 if false
  */
 
-int _largest_number(int a, int b, int c);
+int largest_number(int a, int b, int c);
 
 /**
 * convert_day - converts day of month to day of year, without accounting
@@ -32,10 +32,7 @@ int _largest_number(int a, int b, int c);
 * Return: day of year
 */
 
-int _convert_day(int month, int day);
+int convert_day(int month, int day);
 
 
-int _main(void);
-
-
-#endif
+#endif /* MAIN_H */
