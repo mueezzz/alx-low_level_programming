@@ -2,7 +2,7 @@
 #define _MAIN_H_
 
 /**
- * _putchar - writes the character c to stdout
+ * _putchar - winwrites the character c to stdout
  * @c: The character to print
  *
  * Return: On success 1.
@@ -12,7 +12,7 @@
 int _putchar(char c);
 
 /**
- * print_alphabet - print lowercase alphabet
+ * print_alphabet -di print lowercase alphabet
  */
 
 void print_alphabet(void);
