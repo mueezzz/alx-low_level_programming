@@ -15,6 +15,7 @@ int largest;
 if (a > b)
 {
 if (a > c)
+{
 largest = a;
 }
 else
@@ -30,5 +31,6 @@ else
 {
 largest = c;
 }
+
 return (largest);
 }
